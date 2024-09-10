@@ -25,5 +25,5 @@
  
 ---
 
-<!-- [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-rodriquez)](https://github.com/jon-rodriquez/github-readme-stats) -->
+<!-- [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-rodriquez?theme=tokyonight)](https://github.com/jon-rodriquez/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon-rodriquez&size_weight=0.5&count_weight=0.5)
