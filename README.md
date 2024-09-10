@@ -8,6 +8,7 @@
 
 **`Software Engineer`**
 
+I’m a full-stack software engineer passionate about building scalable and maintainable applications. With experience in technologies such as TypeScript, Node.js, Nest.js, and React, I’m always eager to learn and improve my skills. Over the past 4 years, I’ve worked in the finance mortgage industry, optimizing processes through custom software solutions.
 
 ---
 
@@ -18,6 +19,7 @@
  
 ---
 
+### 📈 GitHub Stats
 <!-- [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-rodriquez&theme=tokyonight)](https://github.com/jon-rodriquez/github-readme-stats) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon-rodriquez&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true)
 <br/>
