@@ -1,15 +1,20 @@
 # Jonathan Rodriquez
 
 **`Software Engineer`**
-  <a href="https://linkedin.com/in/jonathan-rodriquez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  
 
 
 
 I’m a full-stack software engineer passionate about building scalable and maintainable applications. With experience in technologies such as TypeScript, Node.js, Nest.js, and React, I’m always eager to learn and improve my skills. Over the past 4 years, I’ve worked in the finance mortgage industry, optimizing processes through custom software solutions.
 
+<div align="left">
+<a href="https://linkedin.com/in/jonathan-rodriquez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 ---
+
 
 ### 🧰 Languages and Tools
 
