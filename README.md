@@ -1,3 +1,8 @@
+# Jonathan Rodriquez
+
+**`Software Engineer`**
+
+
 ---
 
 ### 🧰 Languages and Tools
@@ -17,3 +22,7 @@
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <br />
+ 
+---
+
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jon-rodriquez)](https://github.com/jon-rodriquez/github-readme-stats)
