@@ -24,7 +24,6 @@ I’m a full-stack software engineer passionate about building scalable and main
 ---
 
 ### 📈 GitHub Stats
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=jon-rodriquez&theme=dark&hide_border=true)](https://github.com/jon-rodriquez/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jon-rodriquez&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&layout=compact)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jon-rodriquez&count_private=true&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
